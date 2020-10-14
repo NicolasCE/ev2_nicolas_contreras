@@ -16,7 +16,6 @@ export default {
     <button>Ganador</button>
     <br><br>
     <div id="resultadobasket"></div>
-    
-    
+
     `,
 };

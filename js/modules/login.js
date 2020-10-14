@@ -1,7 +1,7 @@
 export default {
     data: `
         <h1> Alumno </h1>
-        <input id="txt" type="text">
+        <input id="txt" type="text" style="black";
         <br><br>
         Puntaje <br>
         <select id="Puntaj">
@@ -34,5 +34,5 @@ export default {
 
         `;
     },
-    
+
 };
