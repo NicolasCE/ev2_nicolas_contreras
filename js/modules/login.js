@@ -29,11 +29,10 @@ export default {
                 <tr>
                     <th>Alumno</th>
                     <th>Puntaje</th>
-                    <th>Resultado</th>
                 </tr>
             </table>
 
         `;
     },
-
+    
 };
